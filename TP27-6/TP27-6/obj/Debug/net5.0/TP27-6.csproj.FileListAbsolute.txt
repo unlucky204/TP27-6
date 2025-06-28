@@ -1,0 +1,16 @@
+C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\bin\Debug\net5.0\TP27-6.exe
+C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\bin\Debug\net5.0\TP27-6.deps.json
+C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\bin\Debug\net5.0\TP27-6.runtimeconfig.json
+C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\bin\Debug\net5.0\TP27-6.runtimeconfig.dev.json
+C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\bin\Debug\net5.0\TP27-6.dll
+C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\bin\Debug\net5.0\ref\TP27-6.dll
+C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\bin\Debug\net5.0\TP27-6.pdb
+C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\obj\Debug\net5.0\TP27-6.csproj.AssemblyReference.cache
+C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\obj\Debug\net5.0\TP27-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\obj\Debug\net5.0\TP27-6.AssemblyInfoInputs.cache
+C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\obj\Debug\net5.0\TP27-6.AssemblyInfo.cs
+C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\obj\Debug\net5.0\TP27-6.csproj.CoreCompileInputs.cache
+C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\obj\Debug\net5.0\TP27-6.dll
+C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\obj\Debug\net5.0\ref\TP27-6.dll
+C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\obj\Debug\net5.0\TP27-6.pdb
+C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\obj\Debug\net5.0\TP27-6.genruntimeconfig.cache
