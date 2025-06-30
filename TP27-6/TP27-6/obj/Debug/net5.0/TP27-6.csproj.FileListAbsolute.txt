@@ -3,7 +3,6 @@ C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\bin\Debug\net5.0\TP27-6
 C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\bin\Debug\net5.0\TP27-6.runtimeconfig.json
 C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\bin\Debug\net5.0\TP27-6.runtimeconfig.dev.json
 C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\bin\Debug\net5.0\TP27-6.dll
-C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\bin\Debug\net5.0\ref\TP27-6.dll
 C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\bin\Debug\net5.0\TP27-6.pdb
 C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\obj\Debug\net5.0\TP27-6.csproj.AssemblyReference.cache
 C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\obj\Debug\net5.0\TP27-6.GeneratedMSBuildEditorConfig.editorconfig
@@ -14,3 +13,5 @@ C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\obj\Debug\net5.0\TP27-6
 C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\obj\Debug\net5.0\ref\TP27-6.dll
 C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\obj\Debug\net5.0\TP27-6.pdb
 C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\obj\Debug\net5.0\TP27-6.genruntimeconfig.cache
+C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\obj\Debug\net5.0\TP27-6.sourcelink.json
+C:\Users\info-1.INDU\Desktop\Nueva carpeta\TP27-6\TP27-6\obj\Debug\net5.0\refint\TP27-6.dll

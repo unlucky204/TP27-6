@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TP27-6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8fa2e63aafd3975d330b93ada9a9ebbadba37182")]
 [assembly: System.Reflection.AssemblyProductAttribute("TP27-6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TP27-6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
