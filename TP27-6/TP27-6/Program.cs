@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace TP27_6
 {
@@ -6,54 +8,37 @@ namespace TP27_6
     {
         static void Main(string[] args)
         {
-            int i = 0;
-            int i2 = 0;
-            int i3 = 0;
-            int NumRep = 0;
             double VecesRepetidas = 0;
-            bool repetido = false;
-            int[] lista = new int[30];
-            for (int r = 0; r <= 10000; r++)
+            Console.WriteLine("ingrese las repes");
+            int Rep = int.Parse(Console.ReadLine());
+            Console.WriteLine("ingrese el tamaño del grupo");
+            int Cant = int.Parse(Console.ReadLine());
+            List<int> lista; 
+            for (int r = 0; r <= Rep; r++)
             {
-                repetido = false;
-                for (int j = 0; j < 30; j++)
+                lista = new List<int>();
+                bool repetido = false;
+                for (int j = 0; j < Cant; j++)
                 {
-                    lista[j] = ObtenerNumRandom();
+                    lista.Add(ObtenerNumRandom());
                 }
-                for (int j = 0; j < 30; j++)
+                for (int j = 0; j < Cant; j++)
                 {
-                    for (int k = 0; k < 30; k++)
+                    for (int k = 0; k < Cant; k++)
                     {
-                        if (lista[i] == lista[i2] && i != i2)
+                        if (lista.ElementAt(j) == lista.ElementAt(k) && j != k && repetido != true)
                         {
-                            if (repetido == false)
-                            {
                                 VecesRepetidas++;
                                 repetido = true;
-                            }
-                            NumRep = lista[i];
                         }
-                        if (i2 < 29)
-                        {
-                            i2++;
-                        }
-                        else
-                            i2 = 0;
                     }
-                    if (i < 29)
-                    {
-                        i++;
-                    }
-                    else
-                        i = 0;
                 }
             }
-            Console.WriteLine($@"Veces repetidas:{VecesRepetidas}/repeticiones:10000 = {VecesRepetidas/10000}");
+            Console.WriteLine($@"Veces repetidas:{VecesRepetidas}/repeticiones:{Rep} = {VecesRepetidas/Rep}. En un grupo de {Cant} personas");
 
         }
         static int ObtenerNumRandom()
         {
-            
             Random random = new Random();
             int NumeroRandom = random.Next(1, 365);
             return NumeroRandom;
